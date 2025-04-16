@@ -1,3 +1,6 @@
+# Warning!
+This is a fork. The original is located at: https://github.com/humanplayer2/mkmods
+
 # ZUOYA GMK26
 
 > ## Content
